@@ -18,6 +18,9 @@ Project of the day
 
 Mail Merge using files. You can check out my code. You can also clone and run on a local machine using an IDE.
 
+![image](https://github.com/Joseph-bot-prog/day-24-mail-merge-project/assets/142531521/188593ea-c438-47d0-863f-20a9798bd5b9)
+
+
 Conclusion
 
 To conclude, I would thank my instructor for being such a wonderful teacher and for coming up with a beautiful course. I would like to thank MYSELF for being self-motivated throughout the lecture.
