@@ -29,4 +29,4 @@ Suggestion
 
 All those who can understand English at a fast pace and catch up with what the instructor is trying to convey can choose to watch the video at 1.2x speed which reduces the watch time and meanwhile, you can keep the remaining time for practice.
 
-Date - Oct 13, 2023
+Date - Oct 10, 2023
